@@ -1,0 +1,5 @@
+﻿  testing.cpp
+C:\Users\acer\Desktop\C++\testing\testing.cpp(129,17): warning C4566: character represented by universal-character-name '\u0300' cannot be represented in the current code page (1252)
+C:\Users\acer\Desktop\C++\testing\testing.cpp(129,17): warning C4566: character represented by universal-character-name '\u0301' cannot be represented in the current code page (1252)
+C:\Users\acer\Desktop\C++\testing\testing.cpp(129,17): warning C4566: character represented by universal-character-name '\u0303' cannot be represented in the current code page (1252)
+  testing.vcxproj -> C:\Users\acer\Desktop\C++\testing\x64\Debug\testing.exe

@@ -1,0 +1,10 @@
+Book ID: 123, Book Name: Book 4, Book Status: 1, Book Location: Section D, Borrow Date: 04/06/2013, Return Date: 04/07/2013, Borrow Count: 2, Reader ID: hjy33
+---------------
+Book ID: 789, Book Name: Book 3, Book Status: 1, Book Location: Section C, Borrow Date: , Return Date: , Borrow Count: 0, Reader ID: 
+---------------
+Book ID: 124, Book Name: Book 4, Book Status: 1, Book Location: Section D, Borrow Date: , Return Date: , Borrow Count: 0, Reader ID: 
+---------------
+Book ID: 684, Book Name: Book 5, Book Status: 1, Book Location: Section E, Borrow Date: 04/06/2013, Return Date: 04/07/2013, Borrow Count: 1, Reader ID: hjy33
+---------------
+Book ID: 347, Book Name: Book 6, Book Status: 1, Book Location: Section F, Borrow Date: , Return Date: , Borrow Count: 0, Reader ID: 
+---------------
